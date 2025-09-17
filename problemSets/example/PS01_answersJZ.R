@@ -64,3 +64,5 @@ output_stargazer <- function(outputFile, ...) {
 }
 # execute function and check ls() to make sure it worked
 output_stargazer("regression_output1.tex", regression1)
+print ("hello world")
+
